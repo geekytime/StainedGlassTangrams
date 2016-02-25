@@ -2,7 +2,7 @@
 
 ![Stained Glass Tangrams](./stained-glass-tangrams-icon.gif)
 
-## An Little Open Source Game by [GeekyTime](https://www.patreon.com/geekytime)
+## A Little Open Source Game by [GeekyTime](https://www.patreon.com/geekytime)
 
 I built this little Tangrams game as my February 2016 [#1GAM](http://www.onegameamonth.com/) entry.
 
