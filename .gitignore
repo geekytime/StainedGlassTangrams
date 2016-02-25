@@ -1,0 +1,9 @@
+.DS_Store
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+Temp
+Library
+obj
+tangrams.sln
+tangrams.userprefs
+Builds
