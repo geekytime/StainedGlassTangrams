@@ -1,6 +1,8 @@
 # Stained Glass Tangrams
 
-## An Open Source Game by [GeekyTime](https://www.patreon.com/geekytime)
+![Stained Glass Tangrams](./stained-glass-tangrams-icon.gif)
+
+## An Little Open Source Game by [GeekyTime](https://www.patreon.com/geekytime)
 
 I built this little Tangrams game as my February 2016 [#1GAM](http://www.onegameamonth.com/) entry.
 
@@ -12,17 +14,15 @@ I release my games as open source (when I can) because I want more people to pla
 
 The easiest way to play Stained Glass Tangrams is on [Itch.io](https://geekytime.itch.io/stained-glass-tangrams).
 
-If you want to play from source, you _should_ be able to clone this repo and simply open it in Unity 5.3 or higher.
-
-If you have any trouble playing the game in the Unity Editor, please open an issue.
+If you want to play from source, you _should_ be able to clone this repo and simply open it in Unity 5.3 or higher. If you have any trouble playing the game in the Unity Editor, please open an issue.
 
 ## How to Contribute
 
 I love pull requests! Feel free to fork and submit a PR.
 
-I do review all PRs line-by-line before I'll merge. I don't have a style guide, but check out the other source code before you contribute.
+I review all PRs line-by-line before I'll merge. I don't have a style guide, but check out the other source code before you contribute.
 
-Here are a few things I'll expect from any PRs:
+Here are a few general things I'll expect from any PRs:
 
 - The game should still work :smile:
 - Variable names should be clear but concise
